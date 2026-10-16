@@ -1,8 +1,8 @@
-# Csh-Marathon-Spr13
- C# Marathon Sprint13
+# Practics 2. Views
+
 
  
-Sprint 13. Tasks
+## Tasks
 
 All the views are based only on the Razor syntax.
 1.	Change Index view:
